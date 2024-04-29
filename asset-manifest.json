@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LTL/static/css/main.cd1cd63f.css",
+    "main.css": "/LTL/static/css/main.7b1bb070.css",
     "main.js": "/LTL/static/js/main.39912021.js",
     "static/js/453.99c1801e.chunk.js": "/LTL/static/js/453.99c1801e.chunk.js",
     "static/media/greek-salad.jpg": "/LTL/static/media/greek-salad.bed423a1fab5b210e347.jpg",
@@ -11,12 +11,12 @@
     "index.html": "/LTL/index.html",
     "static/media/menu-icon.svg": "/LTL/static/media/menu-icon.0da6f67ced800ab909f63d5144de37ee.svg",
     "static/media/close-icon.svg": "/LTL/static/media/close-icon.d3724015a28ada69681849cfbfcf9f21.svg",
-    "main.cd1cd63f.css.map": "/LTL/static/css/main.cd1cd63f.css.map",
+    "main.7b1bb070.css.map": "/LTL/static/css/main.7b1bb070.css.map",
     "main.39912021.js.map": "/LTL/static/js/main.39912021.js.map",
     "453.99c1801e.chunk.js.map": "/LTL/static/js/453.99c1801e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd1cd63f.css",
+    "static/css/main.7b1bb070.css",
     "static/js/main.39912021.js"
   ]
 }
