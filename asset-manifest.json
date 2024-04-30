@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/LTL/static/css/main.039ed3ee.css",
-    "main.js": "/LTL/static/js/main.d3394452.js",
+    "main.css": "/LTL/static/css/main.c52374b6.css",
+    "main.js": "/LTL/static/js/main.298faec2.js",
     "static/js/453.99c1801e.chunk.js": "/LTL/static/js/453.99c1801e.chunk.js",
     "static/media/greek-salad.jpg": "/LTL/static/media/greek-salad.bed423a1fab5b210e347.jpg",
     "static/media/bruchetta.jpg": "/LTL/static/media/bruchetta.cc98b69b023d1447eeba.jpg",
+    "static/media/restaurant.jpg": "/LTL/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
     "static/media/hero.jpg": "/LTL/static/media/hero.827fb0bfe6f625329f41.jpg",
     "static/media/greek-salad.png": "/LTL/static/media/greek-salad.d3329204286ee8bc013b.png",
     "static/media/bruchetta.png": "/LTL/static/media/bruchetta.6f37584dd31607273308.png",
@@ -15,12 +16,12 @@
     "index.html": "/LTL/index.html",
     "static/media/menu-icon.svg": "/LTL/static/media/menu-icon.0da6f67ced800ab909f63d5144de37ee.svg",
     "static/media/close-icon.svg": "/LTL/static/media/close-icon.d3724015a28ada69681849cfbfcf9f21.svg",
-    "main.039ed3ee.css.map": "/LTL/static/css/main.039ed3ee.css.map",
-    "main.d3394452.js.map": "/LTL/static/js/main.d3394452.js.map",
+    "main.c52374b6.css.map": "/LTL/static/css/main.c52374b6.css.map",
+    "main.298faec2.js.map": "/LTL/static/js/main.298faec2.js.map",
     "453.99c1801e.chunk.js.map": "/LTL/static/js/453.99c1801e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.039ed3ee.css",
-    "static/js/main.d3394452.js"
+    "static/css/main.c52374b6.css",
+    "static/js/main.298faec2.js"
   ]
 }
