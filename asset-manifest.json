@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LTL/static/css/main.970c1a26.css",
-    "main.js": "/LTL/static/js/main.4d379286.js",
+    "main.css": "/LTL/static/css/main.490e3858.css",
+    "main.js": "/LTL/static/js/main.474312c0.js",
     "static/js/453.99c1801e.chunk.js": "/LTL/static/js/453.99c1801e.chunk.js",
     "static/media/greek-salad.jpg": "/LTL/static/media/greek-salad.bed423a1fab5b210e347.jpg",
     "static/media/bruchetta.jpg": "/LTL/static/media/bruchetta.cc98b69b023d1447eeba.jpg",
@@ -16,12 +16,12 @@
     "index.html": "/LTL/index.html",
     "static/media/menu-icon.svg": "/LTL/static/media/menu-icon.0da6f67ced800ab909f63d5144de37ee.svg",
     "static/media/close-icon.svg": "/LTL/static/media/close-icon.d3724015a28ada69681849cfbfcf9f21.svg",
-    "main.970c1a26.css.map": "/LTL/static/css/main.970c1a26.css.map",
-    "main.4d379286.js.map": "/LTL/static/js/main.4d379286.js.map",
+    "main.490e3858.css.map": "/LTL/static/css/main.490e3858.css.map",
+    "main.474312c0.js.map": "/LTL/static/js/main.474312c0.js.map",
     "453.99c1801e.chunk.js.map": "/LTL/static/js/453.99c1801e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.970c1a26.css",
-    "static/js/main.4d379286.js"
+    "static/css/main.490e3858.css",
+    "static/js/main.474312c0.js"
   ]
 }
